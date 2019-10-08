@@ -1,7 +1,7 @@
 ---
 title: "Lunch with purpose"
 subtitle: Don't waste your lunch eating alone.  Make new friends and expand your professional network.
-image: /img/home-jumbotron.jpg
+image: /img/southern_food.jpg
 blurb:
     heading: What is Lunchapals?
     text: "Lunchapals (Lunch with a pal) is a service to accomodate lunch dates amongst individuals within the same organization to facilitate cross-disciplinary interactions, while making new friends and professional connections."

@@ -15,6 +15,6 @@ products:
       text: "Meet with a group of colleagues to expand your social network and share a few laughs."
 values:
     heading: Our values
-    text: Lunchapals is committed to enriching our users lives by connecting people.  Your colleagues are fascinating, and have a lot to share.  Don't waste your lunch staring at your smartphone when you can could be sharing an authentic experience with amazing people!  
+    text: Lunchapals is committed to enriching our users lives by connecting people.  Your colleagues are fascinating and have a lot to share.  Don't waste your lunch staring at your smartphone when you could be sharing an authentic experience with amazing people!  
 ---
 
